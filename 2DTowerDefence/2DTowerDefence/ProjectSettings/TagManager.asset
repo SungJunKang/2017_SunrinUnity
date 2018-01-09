@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tile
+  - wayPoint
+  - way
+  - wall
+  - monster
+  - bgm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - tile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2863985033
+    locked: 0
+  - name: tower
+    uniqueID: 3522865539
+    locked: 0
+  - name: monster
+    uniqueID: 258013033
+    locked: 0
+  - name: otherObject
+    uniqueID: 293639473
+    locked: 0
+  - name: effect
+    uniqueID: 3785562701
+    locked: 0
+  - name: UI
+    uniqueID: 702071425
+    locked: 0
